@@ -1,0 +1,1 @@
+This post is designed to be an overview of how smithing will work in Tamir, explaining all the changes and differences from OSRS as well as the basics for a complete newbie to the universe.
